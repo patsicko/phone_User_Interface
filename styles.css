@@ -1,0 +1,88 @@
+body{
+    background-color: #000000;
+}
+.container{
+    border:6px solid #f8eded;
+    height: 694px;
+    width: 393px;
+    border-radius: 50px;
+    margin-left: 40%;
+    margin-top: 50px;
+    
+}
+.main{
+    border: 6px solid #000000;
+    height: 680px;
+    width: 380px;
+    border-radius: 50px;
+    background-color: hsl(169, 61%, 49%);
+    background-image: url("download.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.micro{
+ 
+    height: 18px;
+    margin-top: 20px;
+    width: 80px;
+    margin-left: 40%;
+    border-radius: 50px;
+    background-color: #000000;
+}
+.whatch{
+  
+    height: 80px;
+    margin-top: 180px;
+    padding-left: 30%;
+    color: #ffffff;
+}
+.hour{
+    font-size: 40px;
+    font-weight: 900;
+    color: #ffffff;
+}
+.date{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 25px;
+}
+form{
+   
+    height: 30px;
+    margin-top: 270px;
+    margin-left: 40px;
+    border-radius: 50%;
+}
+form input[type=text]{
+    background-color: hsla(0, 27%, 94%, 0.84);
+    width: 90%;
+    border-radius: 50px 50px 50px 50px;
+    height: 30px;
+    border: none;
+    background-image: url("images.png"), url("images\ \(1\).png");
+    background-size: 50px,20px;
+    background-repeat: no-repeat;
+    background-position: left,right;
+
+   
+}
+.google{
+    height: 25px;
+    
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+.whatsapp{
+    width: 50px;
+}
+.inst{
+    width: 50px;
+}
+.menu{
+    margin-left: 20%;
+}
+
+
